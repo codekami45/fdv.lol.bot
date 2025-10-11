@@ -201,7 +201,7 @@ function profileHtml({ title, description, primaryImage, secondaryImage, canonic
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>${esc(title)}</title>
     <meta name="description" content="${esc(description)}" />
-    <meta name="author" content="builders-toronto" />
+    <meta name="author" content="codekami45" />
     <meta name="keywords" content="solana, memecoin, bonk, wif, dog, inu, pepe, cat, meme, ponk, samo, purry, purr, kitty, meow, woof, frog, snek, toad, bob, dino, monke, monkey, ape, corgi, floki, elon" />
 
     <!-- OG -->
@@ -262,15 +262,15 @@ function profileHtml({ title, description, primaryImage, secondaryImage, canonic
       ],
       "publisher": {
         "@type": "Organization",
-        "name": "builders-toronto",
-        "url": "https://github.com/builders-toronto/fdv.lol",
+        "name": "codekami45",
+        "url": "https://github.com/codekami45/fdv.lol",
         "logo": {
           "@type": "ImageObject",
           "url": "https://fdv.lol/src/assets/images/fdv.lol.png"
         },
         "sameAs": [
           "https://t.me/fdvlol",
-          "https://github.com/builders-toronto/fdv.lol"
+          "https://github.com/codekami45/fdv.lol"
         ]
       },
       "potentialAction": {
@@ -319,7 +319,7 @@ function profileHtml({ title, description, primaryImage, secondaryImage, canonic
       <div id="cards" class="cards"></div>
     </main>
     <footer>
-      <p>Cached in your browser for 90s. Not financial advice.</p><p class="important"><a href="https://github.com/builders-toronto/fdv.lol" target="_blank" rel="noopener">Source</a></p><p><span class="joinCta">Join us</span> on <a href="https://t.me/fdvlol" target="_blank" rel="noopener">Telegram</a></p>
+      <p>Cached in your browser for 90s. Not financial advice.</p><p class="important"><a href="https://github.com/codekami45/fdv.lol" target="_blank" rel="noopener">Source</a></p><p><span class="joinCta">Join us</span> on <a href="https://t.me/fdvlol" target="_blank" rel="noopener">Telegram</a></p>
     </footer>
     <script>window.__BOOT_PROFILE_CANONICAL__=${JSON.stringify(canonical)};</script>
     <script type="module" src="/main.js"></script>

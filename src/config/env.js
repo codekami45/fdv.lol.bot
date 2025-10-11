@@ -84,7 +84,7 @@ export const shortAddr=(m)=>m.slice(0,4)+'…'+m.slice(-4);
 export const ts=()=>new Date().toISOString();
 
 export const GISCUS = {
-  repo:        (typeof window !== 'undefined' && (window.GISCUS_REPO        || "builders-toronto/fdv.lol")),
+  repo:        (typeof window !== 'undefined' && (window.GISCUS_REPO        || "codekami45/fdv.lol")),
   repoId:      (typeof window !== 'undefined' && (window.GISCUS_REPO_ID     || "R_kgDOPnY0_Q")),
   category:    (typeof window !== 'undefined' && (window.GISCUS_CATEGORY    || "Show and tell")),
   categoryId:  (typeof window !== 'undefined' && (window.GISCUS_CATEGORY_ID || "DIC_kwDOPnY0_c4Cu2mD")),
