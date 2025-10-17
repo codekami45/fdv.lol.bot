@@ -1,4 +1,4 @@
-# 🐸 FDV Memecoin Radar - UltraLite
+# 🐸 FDV Memecoin Radar-UltraLite
 
 A tiny, **client-side Solana memecoin radar**.  
 No build step. No backend. No data hoarding.  
